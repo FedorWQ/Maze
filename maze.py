@@ -1,3 +1,5 @@
+#qwertyuiiop
+
 from pygame import *
 mixer.init()
 font.init()
